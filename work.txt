@@ -1,6 +1,10 @@
 #Title1
 content 5
+<<<<<<< .merge_file_a12168
 master content5
+=======
+o2 content6
+>>>>>>> .merge_file_a12388
 
 #Title2
 content 5
